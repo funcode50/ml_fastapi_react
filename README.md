@@ -5,7 +5,7 @@ I finally sat down to create a fully production ready API with a frontend. On th
 The Tech Stack
 I decided to use something fancy this time. The API backend has been written in Python using fastapi. The frontend is a very simple single page application written in React JS. The user data is stored on a postgres database. The deployment will be handled by Docker-Compose. The code is on Github here.
 
-API Server Backend
+<b>API Server Backend</b>
 The API server will be created in Python using fastapi. The API should be able to handle the following functions -
 
 Login & User Registration
